@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib as mpl
+# import matplotlib as mpl
 import seaborn as sns
 import streamlit as st
 
